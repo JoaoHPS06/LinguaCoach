@@ -21,9 +21,11 @@ Write your Spanish homework, your French journal entry, or a practice paragraph 
 ---
 
 ## 🖼️ Screenshots
-
-> _Add screenshots here after running the app locally._  
-> Suggested shots: the main form, an error card expanded, and the error pattern panel.
+<div align="center">
+        <img width="794" height="471" alt="image" src="https://github.com/user-attachments/assets/42b9a300-19cb-4b67-931e-012b68ccb6b3" />
+        <img width="740" height="349" alt="image" src="https://github.com/user-attachments/assets/1155821c-bba3-4bd0-8ad9-bc55b92ea20c" />
+        <img width="756" height="508" alt="image" src="https://github.com/user-attachments/assets/729caaff-0978-41ff-b322-152b9b2d62f3" />
+</div>
 
 ---
 
