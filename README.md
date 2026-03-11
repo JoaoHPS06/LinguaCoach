@@ -25,15 +25,18 @@ Write your Spanish homework, your French journal entry, or a practice paragraph 
 | Mode | How it works |
 |---|---|
 | ✍️ **Text** | Type or paste any text in the language you're practicing |
-| 🎤 **Speech** | Record yourself speaking — the app transcribes automatically, lets you review and edit the transcription, then corrects it |
+| 🎤 **Speech** | Record yourself speaking, the app transcribes automatically, lets you review and edit the transcription, then corrects it |
 
 ---
 
 ## 🖼️ Screenshots
 <div align="center">
-        <img width="794" height="471" alt="image" src="https://github.com/user-attachments/assets/42b9a300-19cb-4b67-931e-012b68ccb6b3" />
-        <img width="740" height="349" alt="image" src="https://github.com/user-attachments/assets/1155821c-bba3-4bd0-8ad9-bc55b92ea20c" />
-        <img width="756" height="508" alt="image" src="https://github.com/user-attachments/assets/729caaff-0978-41ff-b322-152b9b2d62f3" />
+        <img width="777" height="532" alt="image" src="https://github.com/user-attachments/assets/49076b2c-ffc4-45d3-a2a1-6067c5111466" />
+        <img width="748" height="520" alt="image" src="https://github.com/user-attachments/assets/f833a2f2-5ab5-4652-ad04-5905cb9938e9" />
+        <img width="757" height="384" alt="image" src="https://github.com/user-attachments/assets/093ee104-ae41-40ea-8a3e-10b351d057dc" />
+        <img width="744" height="489" alt="image" src="https://github.com/user-attachments/assets/c6175414-88be-49ab-9919-4fd5af10470f" />
+
+
 </div>
 
 ---
@@ -94,8 +97,8 @@ linguacoach/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/JoaoHPS06/Linguacoach.git
-cd Linguacoach
+git clone https://github.com/JoaoHPS06/LinguaCoach.git
+cd LinguaCoach
 ```
 
 ### 2. Create and activate a virtual environment
